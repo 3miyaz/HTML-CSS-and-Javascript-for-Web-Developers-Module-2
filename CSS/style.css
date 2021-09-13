@@ -8,14 +8,15 @@ header {
     font-family: Times, "Times New Roman", Georgia, serif;
 }
 
-p{
+.description{
   width: 90%;
-  margin: 25px;
+  margin: 20px;
+  clear:left;
 }
 
 .section{
     border:1px solid black;
-    margin: 15px;
+    margin: 10px;
     background-color: rgb(194, 191, 191);
     font-family: Times, "Times New Roman", Georgia, serif;
 }
@@ -29,6 +30,7 @@ p{
     font-size: 1.25em;
     font-weight: bold;
     float: right;
+    clear: both;
 }
   
   #option1{  
