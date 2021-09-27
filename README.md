@@ -1,2 +1,2 @@
 # module2_project
-This is from HTML, CSS, and Javascript for Web Developers Module 2 Final Project.
+This is second assignment for HTML, CSS, and Javascript for Web Developers course on Coursera.
